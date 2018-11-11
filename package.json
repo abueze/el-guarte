@@ -1,0 +1,25 @@
+{
+  "name": "el-guarte",
+  "version": "1.0.0",
+  "description": "This is responsive website for el-guarte",
+  "main": "index.html",
+  "scripts": {
+    "test": "(https://github.com/abueze/el-guarte.git)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abueze/el-guarte.git"
+  },
+  "keywords": [
+    "el-guarter"
+  ],
+  "author": "Nnabueze Emmanuel Odinukwe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abueze/el-guarte/issues"
+  },
+  "homepage": "https://github.com/abueze/el-guarte#readme",
+  "devDependencies": {
+    "jshint": "^2.9.6"
+  }
+}
