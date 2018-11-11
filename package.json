@@ -20,6 +20,11 @@
   },
   "homepage": "https://github.com/abueze/el-guarte#readme",
   "devDependencies": {
-    "jshint": "^2.9.6"
+    "jshint": "^2.9.6",
+    "lite-server": "^2.4.0"
+  },
+  "dependencies": {
+    "lite": "^4.0.5",
+    "server": "^1.0.18"
   }
 }
